@@ -7,7 +7,7 @@ order: 8
 
 # Conclusion
 
-![Introduction](./images/introduction.png){:width="500px" }
+![Introduction](./images/conclusion.png){:width="500px" }
 *Introduction*
 <!-- note -->
 
