@@ -8,6 +8,7 @@ order: 2
 
 Pour réaliser le prototype, vous aurez besoin de plusieurs prérequis, tant au niveau des compétences techniques que des outils nécessaires. Voici une liste générale des prérequis :
 
+
 - **Connaissances de base en programmation web :**
 
 ![les langues de programation](./images/les-langues.jpg){:width="500px"}
