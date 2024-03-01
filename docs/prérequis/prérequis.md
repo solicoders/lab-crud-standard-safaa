@@ -24,6 +24,24 @@ Vous devriez avoir des connaissances de base en développement web, y compris HT
 Pour réaliser cette application, nous devons disposer d'un environnement de développement local configuré sur notre machine.
 Cela inclura un serveur Web Apache, PHP et un SGBD comme MySQL.
 
+- **Environnement de travail :**
+  
+![Git](./images/git.png){:width="500px"}
+*Git*
+
+Avant de commencer à travailler sur votre projet Laravel, assurez-vous d'avoir Git installé sur votre système. Vous pouvez télécharger Git depuis le site officiel de Git et suivre les instructions d'installation pour votre système d'exploitation.
+
+![Github](./images/GitHub.png){:width="500px"}
+*Github*
+
+GitHub est une plateforme de développement collaboratif basée sur Git.
+GitHub avec Laravel est une pratique courante et peut offrir de nombreux avantages comme:
+   *  Hébergement des dépôts
+   *  Suivi des problèmes
+   *  Pull Requests
+   *  Intégration continue
+   *  Documentation
+
 - **Composer :**
 
 ![Composer](./images/composer.png){:width="500px"}
