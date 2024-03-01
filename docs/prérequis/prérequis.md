@@ -69,3 +69,4 @@ Nous devons télécharger AdminLTE dans notre projet Laravel depuis le site offi
 *Design Pattern*
 
 Le pattern Repository est un modèle de conception couramment utilisé en développement logiciel pour séparer la logique qui récupère les données d'une source de données (comme une base de données) du reste de l'application. Ce modèle aide à promouvoir la séparation des préoccupations et rend l'application plus maintenable, testable et évolutive. 
+ 
