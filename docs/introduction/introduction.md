@@ -4,11 +4,9 @@ chapitre: introduction
 order: 1
 ---
 
-<!-- new slide -->
-
 # Introduction
 
-![Introduction](./images/introduction.png){:width="500px" }
+![Introduction](./images/introduction.png){:width="700px" }
 *Introduction*
 <!-- note -->
 
